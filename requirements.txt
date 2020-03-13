@@ -1,0 +1,4 @@
+bottle==0.12.18
+numpy==1.18.1
+requests==2.18.4
+tensorflow==1.15.0

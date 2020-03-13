@@ -1,0 +1,9 @@
+*.DS_Store
+*.pyc
+battlesnake
+.idea
+.vscode
+*.npy
+*.tfl.*
+checkpoint
+*.out
