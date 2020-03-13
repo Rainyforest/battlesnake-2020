@@ -26,7 +26,7 @@ This AI client uses the [bottle web framework](http://bottlepy.org/docs/dev/inde
 
 2) Clone repo to your development environment:
 ```
-git clone git@github.com:<your github username>/starter-snake-python.git
+git clone git@github.com:<your github username>/battlesnake_2020.git
 ```
 
 3) Install dependencies using [pip](https://pip.pypa.io/en/latest/installing.html):
