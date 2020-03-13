@@ -4,6 +4,8 @@ A running environment based on the starter snake written by send-with-us.
 
 Add a simple environment for machine learning training in simu_model.
 
+Also with simple A* for food finding that user could play with.
+
 A simple [Battlesnake AI](http://battlesnake.io) written in Python. 
 
 Visit [https://github.com/battlesnakeio/community/blob/master/starter-snakes.md](https://github.com/battlesnakeio/community/blob/master/starter-snakes.md) for API documentation and instructions for running your AI.
